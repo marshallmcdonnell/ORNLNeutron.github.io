@@ -1,9 +1,5 @@
-ul{
+ul#menu li {
     float: left;
     color: 007832;
     display:inline;
-}
-#ALevel{
-    float: left;
-    color: 007832;
 }
