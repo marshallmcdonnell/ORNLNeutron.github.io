@@ -1,8 +1,29 @@
+
 ul#menu li {
     float: left;
+    text-align: left;
     color: 007832;
     display:inline;
 }
+img {
+    margin: 2px;
+    border: 2px solid #009cff;
+}
+#ALevel {
+    text-align: left;
+}
 .left {
     float: left;
+}
+.titles {
+    text-align: left
+}
+
+#Sample, #Specifications {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: white;
+    color: black;
+
 }
