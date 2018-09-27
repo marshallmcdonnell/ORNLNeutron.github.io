@@ -1,5 +1,9 @@
-ul#menu li {
+ul{
     float: left;
     color: 007832;
     display:inline;
+}
+#A-Level{
+    float: left;
+    color: 007832;
 }
