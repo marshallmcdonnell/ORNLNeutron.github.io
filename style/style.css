@@ -3,3 +3,6 @@ ul#menu li {
     color: 007832;
     display:inline;
 }
+.left {
+    float: left;
+}
