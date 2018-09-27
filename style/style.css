@@ -3,6 +3,11 @@ ul#menu li {
     color: 007832;
     display:inline;
 }
+<<<<<<< HEAD
 .left {
     float: left;
+=======
+img {
+    text-align: left;
+>>>>>>> bf87f79461ad6ec684ecbd0a73dda7ad25b2417c
 }
