@@ -22,6 +22,7 @@ ul#menu li {
     text-align: left;
     color: 007832;
     display:inline;
+    padding:10px;
 }
 img {
     margin: 2px;
