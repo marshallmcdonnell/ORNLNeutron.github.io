@@ -6,7 +6,7 @@ Files are found by putting
 
 In the address/url/location bar. 
 
-https://ORNLNeutron.github.io/NOMAD/NOMAD-users
+https://ORNLNeutron.github.io/NOMAD/NOMAD-users.html
 
 I have created  a maquette for the https://neutrons.ornl.gov site. 
 This is a flexible and dynmaic route of organizing files for each bean in a way the scientists choose. 
