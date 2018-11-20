@@ -1,0 +1,11 @@
+ul#menu li {
+    float: left;
+    text-align: left;
+    color: 007832;
+    display:inline;
+    padding:10px;
+}
+img {
+    margin: 2px;
+    border: 2px solid #009cff;
+}
